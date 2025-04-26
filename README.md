@@ -56,7 +56,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/caiocesarti/caiocesarti/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
