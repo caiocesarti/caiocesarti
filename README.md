@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Web Developer at @SC <br><br>- Cloud Computing Specialist</p>
+<p align="left">- Web Developer at @SC <br><br>- cloud computing specialist</p>
 
 ###
 
