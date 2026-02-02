@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Full Stack Developer at @SC <br><br>- cloud | devops | GenAI | ML</p>
+<p align="left">Cloud | GenAi | ML</p>
 
 ###
 
