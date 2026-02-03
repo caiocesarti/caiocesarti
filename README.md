@@ -1,3 +1,13 @@
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">
+Cloud Engineer | AI Engineer | DevOps | GenAI | MLOps — Bacharel em Sistemas de Informação, com especialização em Cloud Computing e MBA em Dados, focado em soluções em nuvem, automação de infraestrutura e aplicações de IA e Machine Learning.
+</p>
+
+###
+
 <h2 align="left">Tech Stack</h2>
 
 ###
