@@ -20,11 +20,7 @@
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
-  <img width="12" />
-  <!-- OCI (Oracle Cloud Infrastructure) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oraclecloud.svg"
-       height="40"
-       alt="oracle cloud logo" />
+  <img width="12" /> 
 </div>
 
 ###
@@ -49,9 +45,7 @@
 
 <!-- AI, Data & MLOps -->
 <p align="left"><strong>AI, Data & MLOps</strong></p>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="jupyter logo" />
-  <img width="12" />
+<div align="left"> 
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
