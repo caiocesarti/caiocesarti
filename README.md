@@ -1,9 +1,9 @@
 ## About Me
 
-Cloud Engineer com foco em soluções em nuvem, automação de infraestrutura e aplicações de IA.  
-Bacharel em Sistemas de Informação, com especialização em Cloud Computing e MBA em Dados.
+Bachelor’s degree in Information Systems, with a specialization in Cloud Computing and an MBA in Data.
 
-Atuo na construção de arquiteturas escaláveis, integração de serviços cloud e pipelines para aplicações de Machine Learning, GenAI e MLOps, com ênfase em boas práticas, observabilidade e confiabilidade.
+Cloud Engineer with a strong background in AWS and **4x AWS Certified**.  
+Today, my focus is on creating **GenAI and Machine Learning applications** on **AWS and Azure**, exploring cloud-native services and modern DevOps practices to transform ideas into real systems.
 
 ---
 
@@ -14,7 +14,7 @@ Atuo na construção de arquiteturas escaláveis, integração de serviços clou
 <td width="33%" valign="top">
 
 ### Azure AI Translator Agent
-Solução de tradução automática de conteúdo técnico com foco em **precisão terminológica**, **contexto de domínio** e **arquitetura orientada a jobs**.
+Automated technical content translation solution focused on **terminology accuracy**, **domain context**, and **job-oriented architecture**.
 
 **Badges**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -28,7 +28,7 @@ Solução de tradução automática de conteúdo técnico com foco em **precisã
 <td width="33%" valign="top">
 
 ### Azure Foundry RAG E-commerce Chatbot
-Laboratório de **RAG (Retrieval-Augmented Generation)** simulando um chatbot de suporte a e-commerce baseado em documentos.
+Hands-on **RAG (Retrieval-Augmented Generation)** lab simulating an e-commerce support chatbot based on document retrieval and generation.
 
 **Badges**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -42,7 +42,7 @@ Laboratório de **RAG (Retrieval-Augmented Generation)** simulando um chatbot de
 <td width="33%" valign="top">
 
 ### Açaí Sales Forecast — Azure ML
-Projeto de **Machine Learning** para previsão de demanda, cobrindo experimentação, avaliação e deploy em nuvem.
+Machine Learning project for demand forecasting, covering experimentation, evaluation, and cloud deployment.
 
 **Badges**  
 ![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?logo=microsoftazure&logoColor=white)
@@ -74,8 +74,6 @@ Projeto de **Machine Learning** para previsão de demanda, cobrindo experimenta�
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
 </div>
 
 <!-- DevOps & Platform -->
@@ -85,8 +83,6 @@ Projeto de **Machine Learning** para previsão de demanda, cobrindo experimenta�
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
@@ -94,22 +90,14 @@ Projeto de **Machine Learning** para previsão de demanda, cobrindo experimenta�
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
 </div>
 
-<!-- AI, Data & MLOps -->
-<p align="left"><strong>AI, Data & MLOps</strong></p>
+<!-- AI, Data & ML -->
+<p align="left"><strong>AI, Data & ML</strong></p>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
-</div>
-
-<!-- Observability -->
-<p align="left"><strong>Observability</strong></p>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo" />
 </div>
 
 <!-- Version Control -->
