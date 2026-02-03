@@ -16,12 +16,11 @@ Atuo na construção de arquiteturas escaláveis, integração de serviços clou
 ### Azure AI Translator Agent
 Solução de tradução automática de conteúdo técnico com foco em **precisão terminológica**, **contexto de domínio** e **arquitetura orientada a jobs**.
 
-**Technologies**
-- Azure AI Translator  
-- Azure OpenAI  
-- Python  
-- Azure Functions  
-- Azure Blob Storage  
+**Badges**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Translator](https://img.shields.io/badge/Translator-5E5E5E?logo=microsoft&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-000000?logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 [View repository →](https://github.com/caiocesarti/azure-ai-translator-agent)
 
@@ -31,12 +30,11 @@ Solução de tradução automática de conteúdo técnico com foco em **precisã
 ### Azure Foundry RAG E-commerce Chatbot
 Laboratório de **RAG (Retrieval-Augmented Generation)** simulando um chatbot de suporte a e-commerce baseado em documentos.
 
-**Technologies**
-- Azure AI Foundry  
-- Azure OpenAI  
-- Prompt Flow  
-- Python  
-- Vector Search / Embeddings  
+**Badges**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111827?logoColor=white)
+![Prompt Flow](https://img.shields.io/badge/Prompt%20Flow-2563EB?logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 [View repository →](https://github.com/caiocesarti/azure-foundry-rag-ecommerce-chatbot-lab)
 
@@ -46,12 +44,11 @@ Laboratório de **RAG (Retrieval-Augmented Generation)** simulando um chatbot de
 ### Açaí Sales Forecast — Azure ML
 Projeto de **Machine Learning** para previsão de demanda, cobrindo experimentação, avaliação e deploy em nuvem.
 
-**Technologies**
-- Azure Machine Learning  
-- AutoML  
-- MLflow  
-- Python  
-- Jupyter Notebook  
+**Badges**  
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?logo=microsoftazure&logoColor=white)
+![AutoML](https://img.shields.io/badge/AutoML-0F172A?logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 [View repository →](https://github.com/caiocesarti/acai-sales-forecast-azure-ml)
 
@@ -120,4 +117,3 @@ Projeto de **Machine Learning** para previsão de demanda, cobrindo experimenta�
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
 </div>
-
