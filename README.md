@@ -67,7 +67,7 @@
 </td>
 <td width="50%" valign="top" style="background:#0d1117;border:1px solid #30363d;border-radius:14px;padding:22px;box-shadow:0 8px 24px rgba(255,153,0,0.18);">
 <h3>🧪 AWS-Labs — Coleção de Laboratórios</h3>
-<p>Repositório em expansão contínua com <strong>29 labs</strong> organizados por domínio de produto, cada um documentando provisionamento, scripts (Python/Boto3/Bash) e evidências de validação.</p>
+<p>Repositório em expansão contínua com <strong>30 labs</strong> organizados por domínio de produto, cada um documentando provisionamento, scripts (Python/Boto3/Bash) e evidências de validação.</p>
 <p>
 <img src="https://img.shields.io/badge/Serverless-7%20labs-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Seguran%C3%A7a-8%20labs-DD344C?style=flat-square&logo=amazoniam&logoColor=white" />
