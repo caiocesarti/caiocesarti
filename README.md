@@ -10,7 +10,6 @@
 
 [![Portfolio](https://img.shields.io/badge/caiocesar.tec.br-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://caiocesar.tec.br/)
 [![Blog](https://img.shields.io/badge/Caio%20Labs-181717?style=flat-square&logo=hashnode&logoColor=white)](https://labs.caiocesar.tec.br)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/caiocesarti)
 
 </div>
 
@@ -72,9 +71,20 @@
 
 ---
 
-## 📊 Estatísticas
+## 🛠️ Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiocesarti&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=FF9900&icon_color=FF9900&text_color=8b949e" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiocesarti&theme=transparent&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" height="165" alt="GitHub Streak" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-181717?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS%20SDK-181717?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS SDK" />
+  <img src="https://img.shields.io/badge/Azure-181717?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-181717?style=flat-square&logo=terraform&logoColor=7B42BC" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-181717?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-181717?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+</p>
