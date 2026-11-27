@@ -20,14 +20,13 @@
 ## Stack
 
 **Aplicações**<br>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,hono,postgres,firebase&theme=dark" alt="Aplicações" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,firebase&theme=dark" alt="Aplicações" />
 
 **Cloud & DevOps**<br>
 <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,terraform,docker,kubernetes,githubactions&theme=dark" alt="Cloud e DevOps" />
 
 **AI & MLOps**<br>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
-<img src="https://img.shields.io/badge/Amazon%20Bedrock-181717?style=flat-square" alt="Amazon Bedrock" />
+<img src="https://skillicons.dev/icons?i=aws,python&theme=dark" alt="Python" />
 
 ---
 
