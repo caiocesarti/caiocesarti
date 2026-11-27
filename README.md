@@ -41,9 +41,9 @@
 |---|---|---|
 | **[aws-serverless-rag-reference](https://github.com/caiocesarti/aws-serverless-rag-reference)** | Arquitetura de referência Serverless RAG na AWS (Amazon Bedrock + Pinecone + Next.js 15 BFF) aplicada a um copiloto técnico-comercial imobiliário, co… | `TypeScript` `amazon-bedrock` `aws` `cloudformation` `devsecops` |
 | **[AWS-Labs](https://github.com/caiocesarti/AWS-Labs)** | Repositório com laboratórios práticos de AWS organizados por domínio de produto. Cada lab documenta o provisionamento, os scripts utilizados e evidên… | `Python` |
-| **[aws-application-networking-demonstrated](https://github.com/caiocesarti/aws-application-networking-demonstrated)** | AWS Application Networking Demonstrated — Exam Lab prático com 7 desafios interdependentes: CloudFront, ALB, ECS, VPC Lattice, API Gateway, CloudWatc… |  |
-| **[aws-incident-response-demonstrated](https://github.com/caiocesarti/aws-incident-response-demonstrated)** | Registro e evidências da microcredencial AWS Incident Response Demonstrated. Resolução prática de incidentes em ambiente AWS comprometido: análise fo… |  |
 | **[aws-serverless-demonstrated](https://github.com/caiocesarti/aws-serverless-demonstrated)** | Desafios práticos e arquitetura da microcredencial AWS Serverless Demonstrated. Casos práticos com AWS Lambda, API Gateway, Cognito, DynamoDB, Step F… |  |
+| **[aws-incident-response-demonstrated](https://github.com/caiocesarti/aws-incident-response-demonstrated)** | Registro e evidências da microcredencial AWS Incident Response Demonstrated. Resolução prática de incidentes em ambiente AWS comprometido: análise fo… |  |
+| **[aws-application-networking-demonstrated](https://github.com/caiocesarti/aws-application-networking-demonstrated)** | AWS Application Networking Demonstrated — Exam Lab prático com 7 desafios interdependentes: CloudFront, ALB, ECS, VPC Lattice, API Gateway, CloudWatc… |  |
 
 ### Amazon Connect & Omnichannel
 
