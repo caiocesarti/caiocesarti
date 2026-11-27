@@ -26,7 +26,8 @@
 <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,terraform,docker,kubernetes,githubactions&theme=dark" alt="Cloud e DevOps" />
 
 **AI & MLOps**<br>
-<img src="https://skillicons.dev/icons?i=aws,python&theme=dark" alt="Python" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+<img src="https://raw.githubusercontent.com/caiocesarti/caiocesarti/main/assets/bedrock.svg" width="48" height="48" alt="Amazon Bedrock" />
 
 ---
 
