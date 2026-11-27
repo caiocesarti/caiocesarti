@@ -33,4 +33,31 @@
 ## Repositórios
 
 <!--REPOS:START-->
+
+### Em destaque
+
+| Repositório | Descrição | Tags |
+|---|---|---|
+| **[AWS-Labs](https://github.com/caiocesarti/AWS-Labs)** | Repositório com laboratórios práticos de AWS organizados por domínio de produto. Cada lab documenta o provisionamento, os scripts utilizados e evidên… | `Python` |
+| **[amazon-connect-pos-vendas-case3](https://github.com/caiocesarti/amazon-connect-pos-vendas-case3)** | Central Omnichannel de Pós-Venda e Suporte de Eletrodomésticos (Chat Web & Voz WebRTC pt-BR) construída no Amazon Connect, Amazon Lex V2 (Camila Neur… | `Python` |
+| **[amazon-connect-service-desk-case2](https://github.com/caiocesarti/amazon-connect-service-desk-case2)** | 🎧 Central de Atendimento Omnichannel (Chat Web & Voz Neural pt-BR) para Service Desk de TI com Amazon Connect, Amazon Lex V2, AWS Lambda (Python 3.1… | `Python` |
+| **[aws-application-networking-demonstrated](https://github.com/caiocesarti/aws-application-networking-demonstrated)** | AWS Application Networking Demonstrated — Exam Lab prático com 7 desafios interdependentes: CloudFront, ALB, ECS, VPC Lattice, API Gateway, CloudWatc… |  |
+| **[aws-incident-response-demonstrated](https://github.com/caiocesarti/aws-incident-response-demonstrated)** | Registro e evidências da microcredencial AWS Incident Response Demonstrated. Resolução prática de incidentes em ambiente AWS comprometido: análise fo… |  |
+| **[aws-serverless-demonstrated](https://github.com/caiocesarti/aws-serverless-demonstrated)** | Desafios práticos e arquitetura da microcredencial AWS Serverless Demonstrated. Casos práticos com AWS Lambda, API Gateway, Cognito, DynamoDB, Step F… |  |
+
+### AWS
+
+| Repositório | Descrição | Tags |
+|---|---|---|
+| **[aws-serverless-rag-reference](https://github.com/caiocesarti/aws-serverless-rag-reference)** | Arquitetura de referência Serverless RAG na AWS (Amazon Bedrock + Pinecone + Next.js 15 BFF) aplicada a um copiloto técnico-comercial imobiliário, co… | `TypeScript` `amazon-bedrock` `aws` `cloudformation` `devsecops` |
+
+### Azure & IA
+
+| Repositório | Descrição | Tags |
+|---|---|---|
+| **[azure-foundry-rag-ecommerce-chatbot-lab](https://github.com/caiocesarti/azure-foundry-rag-ecommerce-chatbot-lab)** |  | `Python` |
+| **[anti-fraud-document-azure-ai](https://github.com/caiocesarti/anti-fraud-document-azure-ai)** | Secure credit card analysis powered by Azure AI Document Intelligence and Python | `Python` |
+| **[azure-ai-translator-agent](https://github.com/caiocesarti/azure-ai-translator-agent)** |  | `Python` |
+| **[acai-sales-forecast-azure-ml](https://github.com/caiocesarti/acai-sales-forecast-azure-ml)** | Azure Machine Learning project to forecast açaí sales based on temperature, using AutoML, visual pipelines and MLflow. | `Jupyter Notebook` |
+
 <!--REPOS:END-->
