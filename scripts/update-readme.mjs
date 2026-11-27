@@ -17,6 +17,7 @@ const GROUPS = [
 const FALLBACK = "Outros";
 const HIDE_TOPIC = "hide"; // adicione o topic "hide" a um repo para escondê-lo
 const MAX_TAGS = 5;
+const FIRST = ["aws-serverless-rag-reference"]; // sempre no topo do seu grupo, nesta ordem
 
 const headers = {
   Accept: "application/vnd.github+json",
@@ -92,16 +93,20 @@ const repos = raw.filter(
 );
 repos.forEach((r) => (r.topics ??= []));
 
-const byName = new Map(repos.map((r) => [r.name, r]));
-const pinned = pinnedNames.map((n) => byName.get(n)).filter(Boolean);
-const pinnedSet = new Set(pinned.map((r) => r.name));
+const pinnedRank = new Map(pinnedNames.map((n, i) => [n, i]));
+const NONE = 1e6;
+const rank = (r) => {
+  const f = FIRST.indexOf(r.name);
+  if (f !== -1) return f;
+  const p = pinnedRank.get(r.name);
+  return p !== undefined ? FIRST.length + p : NONE;
+};
 
-const rest = repos
-  .filter((r) => !pinnedSet.has(r.name))
-  .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
+// Ordem: FIRST, depois pinados do GitHub, depois o mais recente.
+repos.sort((a, b) => rank(a) - rank(b) || new Date(b.pushed_at) - new Date(a.pushed_at));
 
 const buckets = new Map();
-for (const r of rest) {
+for (const r of repos) {
   const key = groupOf(r);
   if (!buckets.has(key)) buckets.set(key, []);
   buckets.get(key).push(r);
@@ -109,7 +114,6 @@ for (const r of rest) {
 
 const order = [...GROUPS.map((g) => g.title), FALLBACK];
 const sections = [];
-if (pinned.length) sections.push(`### Em destaque\n\n${table(pinned)}`);
 for (const title of order) {
   const list = buckets.get(title);
   if (list?.length) sections.push(`### ${title}\n\n${table(list)}`);
@@ -123,7 +127,7 @@ if (!re.test(src)) throw new Error("Marcadores REPOS:START/END não encontrados 
 const next = src.replace(re, () => `${START}\n\n${body}\n\n${END}`);
 if (next !== src) {
   writeFileSync(README, next);
-  console.log(`README atualizado: ${pinned.length} em destaque, ${rest.length} listados.`);
+  console.log(`README atualizado: ${repos.length} repositórios listados.`);
 } else {
   console.log("Sem mudanças.");
 }
