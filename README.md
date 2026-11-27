@@ -34,13 +34,6 @@
 
 <!--REPOS:START-->
 
-### Amazon Connect & Omnichannel
-
-| Repositório | Descrição | Tags |
-|---|---|---|
-| **[amazon-connect-pos-vendas-case3](https://github.com/caiocesarti/amazon-connect-pos-vendas-case3)** | Central Omnichannel de Pós-Venda e Suporte de Eletrodomésticos (Chat Web & Voz WebRTC pt-BR) construída no Amazon Connect, Amazon Lex V2 (Camila Neur… | `Python` |
-| **[amazon-connect-service-desk-case2](https://github.com/caiocesarti/amazon-connect-service-desk-case2)** | 🎧 Central de Atendimento Omnichannel (Chat Web & Voz Neural pt-BR) para Service Desk de TI com Amazon Connect, Amazon Lex V2, AWS Lambda (Python 3.1… | `Python` |
-
 ### AWS
 
 | Repositório | Descrição | Tags |
@@ -50,6 +43,13 @@
 | **[aws-application-networking-demonstrated](https://github.com/caiocesarti/aws-application-networking-demonstrated)** | AWS Application Networking Demonstrated — Exam Lab prático com 7 desafios interdependentes: CloudFront, ALB, ECS, VPC Lattice, API Gateway, CloudWatc… |  |
 | **[aws-incident-response-demonstrated](https://github.com/caiocesarti/aws-incident-response-demonstrated)** | Registro e evidências da microcredencial AWS Incident Response Demonstrated. Resolução prática de incidentes em ambiente AWS comprometido: análise fo… |  |
 | **[aws-serverless-demonstrated](https://github.com/caiocesarti/aws-serverless-demonstrated)** | Desafios práticos e arquitetura da microcredencial AWS Serverless Demonstrated. Casos práticos com AWS Lambda, API Gateway, Cognito, DynamoDB, Step F… |  |
+
+### Amazon Connect & Omnichannel
+
+| Repositório | Descrição | Tags |
+|---|---|---|
+| **[amazon-connect-pos-vendas-case3](https://github.com/caiocesarti/amazon-connect-pos-vendas-case3)** | Central Omnichannel de Pós-Venda e Suporte de Eletrodomésticos (Chat Web & Voz WebRTC pt-BR) construída no Amazon Connect, Amazon Lex V2 (Camila Neur… | `Python` |
+| **[amazon-connect-service-desk-case2](https://github.com/caiocesarti/amazon-connect-service-desk-case2)** | 🎧 Central de Atendimento Omnichannel (Chat Web & Voz Neural pt-BR) para Service Desk de TI com Amazon Connect, Amazon Lex V2, AWS Lambda (Python 3.1… | `Python` |
 
 ### Azure & IA
 
