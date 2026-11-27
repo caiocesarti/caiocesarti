@@ -112,7 +112,7 @@ for (const r of repos) {
   buckets.get(key).push(r);
 }
 
-const order = [...GROUPS.map((g) => g.title), FALLBACK];
+const order = ["AWS", "Amazon Connect & Omnichannel", "Azure & IA", FALLBACK];
 const sections = [];
 for (const title of order) {
   const list = buckets.get(title);
